@@ -2,8 +2,8 @@
 
 CiOptions offset from CiInitialize
 
-*To save you having to replicate your target OS, here's some CiOptions offsets from CiInitialize that I've managed to find.
-If anyone has any to add, let me know.*
+*To save you having to replicate your target OS and/or fiddling with the Kernel Debugger, here's some CiOptions offsets from CiInitialize that I've managed to find.
+If you've got anymore, or know of another resource, let me know.*
 
 
 ```
